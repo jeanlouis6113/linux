@@ -1,0 +1,35 @@
+jeanlouis@jeanlouis-X550JX:~$ ls
+Bureau     Downloads         Images   Musique  snap             Vidéos
+Documents  examples.desktop  Modèles  Public   Téléchargements
+jeanlouis@jeanlouis-X550JX:~$ ls Téléchargements
+jeanlouis@jeanlouis-X550JX:~$ ls Images
+jeanlouis@jeanlouis-X550JX:~$ pwd
+/home/jeanlouis
+jeanlouis@jeanlouis-X550JX:~$ cd Images
+jeanlouis@jeanlouis-X550JX:~/Images$ pwd
+/home/jeanlouis/Images
+jeanlouis@jeanlouis-X550JX:~/Images$ cd ..
+jeanlouis@jeanlouis-X550JX:~$ pwd
+/home/jeanlouis
+jeanlouis@jeanlouis-X550JX:~$ cd ..
+jeanlouis@jeanlouis-X550JX:/home$ pwd
+/home
+jeanlouis@jeanlouis-X550JX:/home$ cd ..
+jeanlouis@jeanlouis-X550JX:/$ pwd
+/
+jeanlouis@jeanlouis-X550JX:/$ ls
+bin    dev   initrd.img      lib64       mnt   root  snap      sys  var
+boot   etc   initrd.img.old  lost+found  opt   run   srv       tmp  vmlinuz
+cdrom  home  lib             media       proc  sbin  swapfile  usr  vmlinuz.old
+jeanlouis@jeanlouis-X550JX:/$ cd home/jeanlouis
+jeanlouis@jeanlouis-X550JX:~$ pwd
+/home/jeanlouis
+jeanlouis@jeanlouis-X550JX:~$ cd Images
+jeanlouis@jeanlouis-X550JX:~/Images$ cd
+jeanlouis@jeanlouis-X550JX:~$ cd Images
+jeanlouis@jeanlouis-X550JX:~/Images$ cd ~
+jeanlouis@jeanlouis-X550JX:~$ cd Images
+jeanlouis@jeanlouis-X550JX:~/Images$ cd ~/Musique
+jeanlouis@jeanlouis-X550JX:~/Musique$ pwd
+/home/jeanlouis/Musique
+jeanlouis@jeanlouis-X550JX:~/Musique$ 
